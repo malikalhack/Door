@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# GitHub stuff
+.github/*
+!.github/instructions/
+
